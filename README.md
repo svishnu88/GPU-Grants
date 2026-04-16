@@ -82,5 +82,5 @@ Research Credits Program offers small grants to students conducting research pro
 [JarvisLabs - Startup Research Grant](https://tally.so/r/WOpRXP)
 
 ```
-$500 in GPU compute credits for ML/AI researchers. No faculty status or .edu email required — open to startup researchers, independent labs, and anyone publishing research. 10 grants awarded monthly. GPUs available: A100, H100, H200, RTX 6000 Ada, and more. Per-minute billing with pause/resume.
+$500 in GPU compute credits for ML/AI researchers. No faculty status or .edu email required — open to startup researchers, independent labs, and anyone publishing research. 10 grants awarded monthly. GPUs available: A100, H100, RTX 6000 Ada, and more. Per-minute billing with pause/resume.
 ```
